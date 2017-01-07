@@ -1,5 +1,5 @@
 # RobotSystem
-* Device driver for RaspberryPi
+Device driver for RaspberryPi
 
 ## Description
 * This is the repository for the lecture RobotSystemEngineering’s task#1 in CIT.
