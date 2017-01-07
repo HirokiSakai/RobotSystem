@@ -1,10 +1,9 @@
 # RobotSystem
 Device driver for RaspberryPi
 
-## Description
-This is the repository for the lecture RobotSystemEngineering’s task#1 in CIT.  
+## Description  
 Tha device driver is included here.  
-LED   → GPIO25  
+Connect a led to GPIO25.  
 
 ## Reference
 * [Yuki1994's repository](https://github.com/Yuki1994/Robosys2016_task_devicedriver)
