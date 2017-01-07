@@ -2,7 +2,7 @@
 Device driver for RaspberryPi
 
 ## Description  
-Tha device driver is included here.  
+A device driver for lighting LED with RaspberryPi.  
 Connect a led to GPIO25.  
 
 ## Reference
