@@ -1,8 +1,7 @@
 /*
 
   myled.c
-  A simple device driver for controlling RaspberryPi's GPIO 
-  in the RobotSystemEngineering
+  A device driver for lighting LED with RaspberryPi.
  
   Copyright (C) 2017  HirokiSakai
   
